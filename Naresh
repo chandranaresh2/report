@@ -1,0 +1,15 @@
+a=input("Enter the name of Student:")
+
+b=int(input("enther the Maths marks:"))
+
+c=int(input("enter the physics marks:"))
+
+d=int(input("enter the chemistry marks:"))
+
+if b>35 and c>35 and d>35:
+
+  print("pass")
+
+else:
+
+  print("fail")
